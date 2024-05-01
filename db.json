@@ -136,5 +136,35 @@
       "state": "Medico Certificado",
       "urlToImage": "https://centromedicoabc.com/nuevas_fotos/18951.jpg"
     }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "lawyerId": 1,
+      "time": "2024-04-01T16:42:23",
+      "rType": "Legal Service",
+      "description": "Representación legal en la corte. Caso Castillon v. Martinez ."
+    },
+    {
+      "id": 2,
+      "lawyerId": 2,
+      "time": "2024-03-31T12:35:53",
+      "rType": "Legal Service",
+      "description": "Representación legal en la corte. Caso Rojas v. Vega ."
+    },
+    {
+      "id": 3,
+      "lawyerId": 3,
+      "time": "2024-04-10T06:24:10",
+      "rType": "Consultation",
+      "description": "Mi recomendación es que informe a la familia de los riesgos y los haga firmar un acuerdo para evitar consecuencias, en el caso de que algo salga mal."
+    },
+    {
+      "id": 4,
+      "lawyerId": 4,
+      "time": "2024-03-21T21:53:35",
+      "rType": "Consultation",
+      "description": "Mi recomendación es que no acepte ese trabajo, debido a los riesgos que conlleva."
+    }
   ]
 }
