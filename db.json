@@ -110,5 +110,31 @@
       "email": "ana.sofia@example.com",
       "phoneNumber": "+9988776655"
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "user": "Josse2000Dr",
+      "name": "José Marcos Castillon Pachas",
+      "email": "jose.marcos@example.com",
+      "DNI": 38563846,
+      "queriesMade": 10,
+      "paidServices": 1,
+      "paidSubscriptions": 1,
+      "state": "Medico Certificado",
+      "urlToImage": "https://eldoctor.pe/app/images/medico/perfil/imagen-medico.20200901153524.jpg"
+    },
+    {
+      "id": 2,
+      "user": "Manuel2000Dr",
+      "name": "Manuel Kevin Martinez Carbajal",
+      "email": "manuel.martinez@example.com",
+      "DNI": 53674534,
+      "queriesMade": 5,
+      "paidServices": 1,
+      "paidSubscriptions": 1,
+      "state": "Medico Certificado",
+      "urlToImage": "https://centromedicoabc.com/nuevas_fotos/18951.jpg"
+    }
   ]
 }
