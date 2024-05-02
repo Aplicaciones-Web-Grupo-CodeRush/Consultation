@@ -128,7 +128,7 @@
   "reviews": [
     {
       "id": 1,
-      "lawyerId": 7,
+      "lawyerName": "Gonzalo Paredes Silva",
       "time": "2024-04-01T16:42:23",
       "rType": "Legal Service",
       "price": 1000.20,
@@ -136,7 +136,7 @@
     },
     {
       "id": 2,
-      "lawyerId": 6,
+      "lawyerName": "Carlos Alberto Vargas Gutierrez",
       "time": "2024-03-31T12:35:53",
       "rType": "Legal Service",
       "price": 2022.14,
@@ -144,7 +144,7 @@
     },
     {
       "id": 3,
-      "lawyerId": 5,
+      "lawyerName": "Santiago Chavez Cruz",
       "time": "2024-04-10T06:24:10",
       "rType": "Consultation",
       "price": 0,
@@ -152,7 +152,7 @@
     },
     {
       "id": 4,
-      "lawyerId": 8,
+      "lawyerName": "Ana Sofia Castillo Mendoza",
       "time": "2024-03-21T21:53:35",
       "rType": "Consultation",
       "price": 0,
@@ -160,7 +160,7 @@
     },
     {
       "id": 5,
-      "lawyerId": 4,
+      "lawyerName": "Valeria Medina Alvarado",
       "time": "2024-04-01T16:42:23",
       "rType": "Legal Service",
       "price": 1000.20,
@@ -168,7 +168,7 @@
     },
     {
       "id": 6,
-      "lawyerId": 3,
+     "lawyerName": "Luz Marina Velasquez Diaz",
       "time": "2024-03-31T12:35:53",
       "rType": "Legal Service",
       "price": 2022.14,
@@ -176,7 +176,7 @@
     },
     {
       "id": 7,
-      "lawyerId": 2,
+      "lawyerName": "Maria Luisa Gonzales Fernandez",
       "time": "2024-04-10T06:24:10",
       "rType": "Consultation",
       "price": 0,
@@ -184,7 +184,7 @@
     },
     {
       "id": 8,
-      "lawyerId": 1,
+      "lawyerName": "Juan Carlos Perez Rodriguez",
       "time": "2024-03-21T21:53:35",
       "rType": "Consultation",
       "price": 0,
